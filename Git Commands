@@ -1,0 +1,16 @@
+Git Commands:
+
+$git init	//Initialize local git repositories
+$git add <file.extension>	//Add files to index
+$git status	//Check status of working tree
+$git commit	//Commit changes in index
+$git push	//Push to remote repositories
+$git pull	//Pull latest from remote repository
+$touch <file.extension>	//To create a new file
+$git add .	//To add all files to the index
+$git rm --cached <file.extension>	//To remove the file
+$git branch <branch-name>	//To create a branch
+$git checkout <branch-name>	//Switching to <branch-name>
+$git merge <branch-name>	//To merge one branch to another (Add a commit message)
+$git pull	//pulls every update made by other developers
+$git push --set-upstream origin <branch-name>	// To push other branch except master
