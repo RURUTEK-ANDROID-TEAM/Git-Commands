@@ -15,4 +15,5 @@ $git merge <branch-name>	//To merge one branch to another (Add a commit message)
 $git pull	//Pulls every update made by other developers
 $git push --set-upstream origin <branch-name>	// To push other branch except master
 $git log  //To view all the commit history done by the authors
+$git mergetool  //Helps in fixing merge conflicts
 .gitignore  //Files that are mentioned in .gitignore are not committed to the git-hub repositories. For example, Log files in the project.
