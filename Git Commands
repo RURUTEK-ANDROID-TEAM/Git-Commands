@@ -12,5 +12,5 @@ $git rm --cached <file.extension>	//To remove the file
 $git branch <branch-name>	//To create a branch
 $git checkout <branch-name>	//Switching to <branch-name>
 $git merge <branch-name>	//To merge one branch to another (Add a commit message)
-$git pull	//pulls every update made by other developers
+$git pull	//Pulls every update made by other developers
 $git push --set-upstream origin <branch-name>	// To push other branch except master
